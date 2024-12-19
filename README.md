@@ -63,7 +63,9 @@ I am a passionate web developer and AI/ML enthusiast skilled in React, Flask, an
 <p>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kaushik-kadari&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushik-kadari" alt="kaushik-kadari" /></p>
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
+
 <p>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaushik-kadari&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
 </p>
